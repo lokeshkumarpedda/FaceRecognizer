@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BFC8567-07F7-4F77-8FA7-B4ABC237821A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "042CAA4C-792D-47D3-B5A0-0D378ECD59BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceRecognizer/CGImage+CVPixelBuffer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "042CAA4C-792D-47D3-B5A0-0D378ECD59BD - d49c1cc68f3bb6c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.CGImageRef.pixelBuffer(width: Swift.Int, height: Swift.Int, pixelFormatType: Swift.UInt32, colorSpace: __C.CGColorSpaceRef, alphaInfo: __C.CGImageAlphaInfo, orientation: __C.CGImagePropertyOrientation) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FaceRecognizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokesh/Documents/iOS%20Projects/FaceRecognizer/FaceRecognizer/CGImage+CVPixelBuffer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "042CAA4C-792D-47D3-B5A0-0D378ECD59BD - d49c1cc68f3bb855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.CGImageRef.pixelBuffer(width: Swift.Int, height: Swift.Int, pixelFormatType: Swift.UInt32, colorSpace: __C.CGColorSpaceRef, alphaInfo: __C.CGImageAlphaInfo, orientation: __C.CGImagePropertyOrientation) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FaceRecognizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokesh/Documents/iOS%20Projects/FaceRecognizer/FaceRecognizer/CGImage+CVPixelBuffer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
