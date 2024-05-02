@@ -103,9 +103,9 @@ extension FaceDetectionVC: CameraFeedManagerDelegate {
         guard (currentTimeMs - mPreviousInferenceTimeMs) >= mDelayBetweenInferencesMs else { return }
         mPreviousInferenceTimeMs = currentTimeMs
         guard let actualImage = UIImage(pixelBuffer: pixelBuffer) else{return}
-        DispatchQueue.main.async{
-            self.mLiveImage.image = actualImage
-        }
+//        DispatchQueue.main.async{
+//            self.mLiveImage.image = actualImage
+//        }
         if takeInitialReference{
             self.mRegisteredUserCount += 1
             mRecognizer?.registerFace(name: "User \(self.mRegisteredUserCount)", image: actualImage, onRegisted: { registed in
