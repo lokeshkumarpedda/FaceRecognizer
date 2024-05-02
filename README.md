@@ -50,3 +50,9 @@ Xcode 15.0<br>
 Swift <br>
 [GoogleMLKit/FaceDetection](https://developers.google.com/ml-kit/vision/face-detection/ios) <br>
 [TensorFlowLiteSwift](https://cocoapods.org/pods/TensorFlowLiteSwift)
+
+## Sample Video
+https://github.com/lokeshkumarpedda/FaceRecognizer/assets/16958387/63463d53-1cbd-4ad7-9284-f8526aa0f2e8
+
+
+
